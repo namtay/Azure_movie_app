@@ -12,7 +12,7 @@ namespace budget_app.Migrations
 {
     [DbContext(typeof(budget_appContext))]
     [Migration("20250514141009_rating")]
-    partial class rating
+    partial class Rating
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

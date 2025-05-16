@@ -300,3 +300,9 @@ C:\Users\ewoen\Desktop\Practical\Csharp projects\budget_app\obj\Debug\net8.0\ref
 C:\Users\ewoen\Desktop\Practical\Csharp projects\budget_app\obj\Debug\net8.0\budget_app.pdb
 C:\Users\ewoen\Desktop\Practical\Csharp projects\budget_app\obj\Debug\net8.0\budget_app.genruntimeconfig.cache
 C:\Users\ewoen\Desktop\Practical\Csharp projects\budget_app\obj\Debug\net8.0\ref\budget_app.dll
+C:\Users\ewoen\Desktop\Practical\Csharp projects\budget_app\bin\Debug\net8.0\publish\web.config
+C:\Users\ewoen\Desktop\Practical\Csharp projects\budget_app\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\ewoen\Desktop\Practical\Csharp projects\budget_app\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\ewoen\Desktop\Practical\Csharp projects\budget_app\bin\Debug\net8.0\publish\budget_app.deps.json
+C:\Users\ewoen\Desktop\Practical\Csharp projects\budget_app\bin\Debug\net8.0\publish\budget_app.runtimeconfig.json
+C:\Users\ewoen\Desktop\Practical\Csharp projects\budget_app\obj\Debug\net8.0\budget_app.sourcelink.json

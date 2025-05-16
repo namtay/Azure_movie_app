@@ -5,7 +5,7 @@
 namespace budget_app.Migrations
 {
     /// <inheritdoc />
-    public partial class rating : Migration
+    public partial class Rating : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
