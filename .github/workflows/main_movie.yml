@@ -29,9 +29,6 @@ jobs:
       - name: dotnet publish
         run: dotnet publish ./budget_app.csproj -c Release -o myapp
         
-
-
-
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
