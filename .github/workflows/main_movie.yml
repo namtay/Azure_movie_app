@@ -27,7 +27,9 @@ jobs:
         run: dotnet build --configuration Release
 
       - name: dotnet publish
-        run: dotnet publish ./budget_app.csproj -c Release -o ${{env.DOTNET_ROOT}}/myapp
+        run: dotnet publish ./budget_app.csproj -c Release -o myapp
+        
+
 
 
       - name: Upload artifact for deployment job
